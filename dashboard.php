@@ -1,8 +1,6 @@
 <?php
 include "nav.php";
 include "footer.php";
-
-
 ?>
 <!doctype html>
 <html lang="en">
